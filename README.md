@@ -25,7 +25,7 @@ Spice Simulations – LTspice simulation files
 
 
 ## Author
-Buddhi Rashmika
-Gaveesha Ranawaka
-Wageesha Lenmini 
-Minsara Pasindu
+Buddhi Rashmika,
+Gaveesha Ranawaka,
+Wageesha Lenmini, 
+Minsara Pasindu.
