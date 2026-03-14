@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.PcbDoc   10/20/2025  4:46:05 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1.TXT
+EIA File   : PCB1.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.701mm)                                           Round             20        PTH        11.52inch (292.71mm)
+T2      28mil (0.711mm)                                           Round             21        PTH        25.30inch (642.64mm)
+T3      29mil (0.729mm)                                           Round             24        PTH        7.21inch (183.22mm)
+T4      31mil (0.78mm)                                            Round             120       PTH        36.14inch (918.02mm)
+T5      32mil (0.8mm)                                             Round             138       PTH        57.46inch (1459.53mm)
+T6      35mil (0.899mm)                                           Round             8         PTH        1.62inch (41.24mm)
+T7      37mil (0.94mm)                                            Round             18        PTH        3.43inch (87.20mm)
+T8      47mil (1.199mm)                                           Round             24        PTH        14.10inch (358.13mm)
+T9      87mil (2.2mm)                                             Round             3         PTH        1.10inch (27.94mm)
+T10     126mil (3.2mm)                                            Round             9         PTH        29.93inch (760.22mm)
+T11     260mil (6.599mm)                                          Round             36        PTH        39.73inch (1009.03mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              421
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Multiplier Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Net Name : Old Net Name=NetC?_N New Net Name=NetC7_N
+Added Pin To Net: NetName=NetC10_N Pin=C10-N
+Added Pin To Net: NetName=NetC10_N Pin=J23-1
+Added Net: Name=NetC10_N
+Added Member To Class: ClassName=Multiplier Member=Component C7 EEUFS1J681S

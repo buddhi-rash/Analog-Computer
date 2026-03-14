@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=op2 Pin=R3-1
+Removed Pin From Net: NetName=out2 Pin=R3-2
+Removed Pin From Net: NetName=op22 Pin=R10-1
+Removed Pin From Net: NetName=out22 Pin=R10-2
+Removed Pin From Net: NetName=-u6in Pin=R40-1
+Removed Pin From Net: NetName=u6out Pin=R40-2
+Removed Member From Class: ClassName=Adder Member=R3
+Removed Member From Class: ClassName=Subtractor Member=R10
+Removed Member From Class: ClassName=Multiplier Member=R40
+Added Component: Designator=R?(TRIM_PTN24A-A10025EB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PTN24A-A10025EB/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN24A-A10025EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTN24A-A10025EB/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(TRIM_PTN24A-A10025EB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PTN24A-A10025EB/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN24A-A10025EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTN24A-A10025EB/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(TRIM_PTN24A-A10025EB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PTN24A-A10025EB/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN24A-A10025EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTN24A-A10025EB/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-u6in Pin=R?-1
+Added Pin To Net: NetName=op2 Pin=R?-1
+Added Pin To Net: NetName=op22 Pin=R?-1
+Added Pin To Net: NetName=out2 Pin=R?-2
+Added Pin To Net: NetName=out22 Pin=R?-2
+Added Pin To Net: NetName=u6out Pin=R?-2
+Added Member To Class: ClassName=Adder Member=Component R? PTN24A-A10025EB
+Added Member To Class: ClassName=Multiplier Member=Component R? PTN24A-A10025EB
+Added Member To Class: ClassName=Subtractor Member=Component R? PTN24A-A10025EB

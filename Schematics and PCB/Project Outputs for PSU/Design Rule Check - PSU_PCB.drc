@@ -1,0 +1,63 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\CHAMA COMPUTERS\Desktop\Analog PSU\PSU_PCB.PcbDoc
+Date     : 10/20/2025
+Time     : 10:02:46 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad Free-2(1120mil,3705mil) on Multi-Layer And Polygon Region (50 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad Free-3(1135mil,2520mil) on Multi-Layer And Polygon Region (50 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad Free-4(4950mil,3700mil) on Multi-Layer And Polygon Region (50 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad Free-5(4960mil,2530mil) on Multi-Layer And Polygon Region (50 hole(s)) Top Layer 
+Rule Violations :4
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad Free-2(1120mil,3705mil) on Multi-Layer And Polygon Region (50 hole(s)) Top Layer Location : [X = 1120mil][Y = 3705mil]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(1135mil,2520mil) on Multi-Layer And Polygon Region (50 hole(s)) Top Layer Location : [X = 1135mil][Y = 2520mil]
+   Violation between Short-Circuit Constraint: Between Pad Free-4(4950mil,3700mil) on Multi-Layer And Polygon Region (50 hole(s)) Top Layer Location : [X = 4950mil][Y = 3700mil]
+   Violation between Short-Circuit Constraint: Between Pad Free-5(4960mil,2530mil) on Multi-Layer And Polygon Region (50 hole(s)) Top Layer Location : [X = 4960mil][Y = 2530mil]
+Rule Violations :4
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=59.055mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-2(1120mil,3705mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-3(1135mil,2520mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-4(4950mil,3700mil) on Multi-Layer Actual Hole Size = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad Free-5(4960mil,2530mil) on Multi-Layer Actual Hole Size = 125.984mil
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Waived Violations : 0
+Time Elapsed        : 00:00:00

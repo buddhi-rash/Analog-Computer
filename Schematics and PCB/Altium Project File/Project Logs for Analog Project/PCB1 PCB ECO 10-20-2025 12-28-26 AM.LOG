@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC6_P Pin=C8-P
+Removed Pin From Net: NetName=NetC6_P Pin=R60-2
+Removed Member From Class: ClassName=Multiplier Member=C6
+Added Pin To Net: NetName=NetC8_P Pin=C8-P
+Added Pin To Net: NetName=NetC8_P Pin=R60-2
+Added Net: Name=NetC8_P

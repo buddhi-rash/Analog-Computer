@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=+12 Pin=J26-1
+Removed Pin From Net: NetName=+12 Pin=J26-2
+Removed Pin From Net: NetName=+12 Pin=J26-3
+Removed Pin From Net: NetName=+12 Pin=J26-4
+Removed Pin From Net: NetName=+12 Pin=J26-5
+Removed Pin From Net: NetName=-12 Pin=J27-1
+Removed Pin From Net: NetName=-12 Pin=J27-2
+Removed Pin From Net: NetName=-12 Pin=J27-3
+Removed Pin From Net: NetName=-12 Pin=J27-4
+Removed Pin From Net: NetName=-12 Pin=J27-5
+Removed Member From Class: ClassName=logMultiplier Member=J4
+Removed Member From Class: ClassName=logMultiplier Member=J15
+Added Component: Designator=SW1(FP-PVA1EEH11_2NV2-MFG)
+Add component (AddParameter): Name = "Current Rating"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "PVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "32V"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(FP-PVA1EEH11_2NV2-MFG)
+Add component (AddParameter): Name = "Current Rating"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "PVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "32V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=SW1-2'
+Added Pin To Net: NetName=+12 Pin=SW1-2
+Added Pin To Net: NetName=-12 Pin=SW2-2'
+Added Pin To Net: NetName=-12 Pin=SW2-2
+Added Pin To Net: NetName=NEGIN Pin=J27-1
+Added Pin To Net: NetName=NEGIN Pin=J27-2
+Added Pin To Net: NetName=NEGIN Pin=J27-3
+Added Pin To Net: NetName=NEGIN Pin=J27-4
+Added Pin To Net: NetName=NEGIN Pin=J27-5
+Added Pin To Net: NetName=NEGIN Pin=SW2-1
+Added Pin To Net: NetName=NEGIN Pin=SW2-1'
+Added Net: Name=NEGIN
+Added Pin To Net: NetName=POSIN Pin=J26-1
+Added Pin To Net: NetName=POSIN Pin=J26-2
+Added Pin To Net: NetName=POSIN Pin=J26-3
+Added Pin To Net: NetName=POSIN Pin=J26-4
+Added Pin To Net: NetName=POSIN Pin=J26-5
+Added Pin To Net: NetName=POSIN Pin=SW1-1
+Added Pin To Net: NetName=POSIN Pin=SW1-1'
+Added Net: Name=POSIN
+Added Member To Class: ClassName=logMultiplier Member=Component J20 1581-5
+Added Member To Class: ClassName=logMultiplier Member=Component J21 1581-5
+Added Member To Class: ClassName=Adder Member=Component SW1 PVA1EEH11.2NV2
+Added Member To Class: ClassName=Adder Member=Component SW2 PVA1EEH11.2NV2

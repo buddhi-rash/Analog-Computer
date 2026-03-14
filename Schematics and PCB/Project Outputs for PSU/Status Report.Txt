@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[PSU_PCB.TXT]
+   Generated File[PSU_PCB.DRL]
+   Generated File[PSU_PCB.LDP]
+   Generated File[PSU_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:05:21 PM On 10/20/2025

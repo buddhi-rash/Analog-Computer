@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Adder.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Adder.SchDoc|FileName=gain.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Adder.SchDoc|FileName=Intdiff.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Adder.SchDoc|FileName=logMultiplier.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Adder.SchDoc|FileName=Multiplier.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Adder.SchDoc|FileName=Subtractor.SchDoc|SheetNumber=2
